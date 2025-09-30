@@ -2,7 +2,7 @@
 
 A complete full-stack blog application built with Node.js, Express.js, and EJS templating. This project demonstrates CRUD (Create, Read, Update, Delete) operations with a clean, responsive interface.
 
-## 🚀 Features
+##  Features
 
 - **Full CRUD Operations**: Create, read, update, and delete blog posts
 - **RESTful API**: Clean API endpoints for post management
